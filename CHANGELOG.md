@@ -1,7 +1,7 @@
 # CHANGELOG
 All notable changes to this project will be documented in this file.
 
-## [0.12.0] - 2024/10/28
+## [0.11.3] - 2024/10/28
 ### Update
 - Core dependencies.
 
